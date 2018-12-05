@@ -1,1 +1,1 @@
-# OpenSourcePowerElectronics-SW-PWM-2018
+# OpenSourcePowerElectronics-SW-CurrentControlLoop-2018
